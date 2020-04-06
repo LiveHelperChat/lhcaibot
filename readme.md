@@ -6,3 +6,4 @@ Very simple extension to show how to integrate any third party AI.
 * Import bot doc/bot.json
 * Rename `extension/lhcaibot/settings/settinigs.ini.default.php` to `extension/lhcaibot/settings/settinigs.ini.php`
 * Edit `extension/lhcaibot/bootstrap/bootstrap.php` and adopt to your needs.
+* Edit department bot settings.
