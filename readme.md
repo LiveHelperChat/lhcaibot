@@ -1,5 +1,8 @@
 Very simple extension to show how to integrate any third party AI.
 
+Documentation:
+https://doc.livehelperchat.com/docs/bot/integrating-any-ai-bot/
+
 # Install
 
 * Activate in settings file `settings.ini.php` add in extension list `lhcaibot`
